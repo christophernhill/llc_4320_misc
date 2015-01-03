@@ -1,0 +1,7 @@
+scp  theta_extract/theta.0000010368.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
+scp  theta_extract/theta.0000010512.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
+scp  theta_extract/theta.0000010656.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
+scp  theta_extract/theta.0000010800.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
+scp  theta_extract/theta.0000010944.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
+scp  theta_extract/theta.0000011088.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
+scp  theta_extract/theta.0000011232.data.extract  cnh@eofe4.mit.edu:/nobackup1/cnh/llc_4320/hawaii_hots
