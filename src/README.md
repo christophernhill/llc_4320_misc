@@ -10,8 +10,8 @@ master store and writing extract files locally.
 
 example_of_splitting_into_blocks_of_350	- Shows how to split long list of shell commands into blocks of 350. A block of 350 extract commands takes under two hours to run, which is the batch queue job length used. Extract needs to be dome from queue system, since front-end login nodes do not have fast access to master store file system.
 
-example_pbs_command	
+example_pbs_command	- Example PBS command for submitting extract command file to PBS queue system.
 
-example_pbs_job_file	
+example_pbs_job_file	- Example job file used in job submission that simply runs the long list of extract commands.
 
-example_copy_back_to_eofe	 
+example_copy_back_to_eofe	- Example of scp back to local system. Requires ssh-agent to instantiate public key.
