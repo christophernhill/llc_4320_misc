@@ -1,0 +1,4 @@
+split -l 350 get_hawaii_hots_salt split_get_hawaii_hots_salt_
+split -l 350 get_hawaii_hots_uvel split_get_hawaii_hots_uvel_
+split -l 350 get_hawaii_hots_vvel split_get_hawaii_hots_vvel_
+split -l 350 get_hawaii_hots_wvel split_get_hawaii_hots_wvel_
